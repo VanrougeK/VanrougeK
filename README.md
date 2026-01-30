@@ -8,4 +8,4 @@
                         alt=""> Digital artist</p>
 </ul>
 <h2>My art test</h2>
-<img src="https://raw.githubusercontent.com/VanrougeK/VanrougeK/main/80%20sin%20t%C3%ADtulo.png" alt="">
+<img width="200px" src="https://raw.githubusercontent.com/VanrougeK/VanrougeK/main/80%20sin%20t%C3%ADtulo.png" alt="">
