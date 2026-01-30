@@ -1,11 +1,46 @@
-<h1>Hola, Soy Vani</h1>
+<h2 align="left">About me</h2>
 
-<h2>About me</h2>
-<ul>
-<p><img src="https://64.media.tumblr.com/d644ff0aa87fe85eae376d0ef492bf36/a34d657383d6ce06-f9/s75x75_c1/231aea25a03ad2c93fc6097c5c1b4da4da29c166.gifv"
-                        alt="" width="16px"> Student</p> <br>
-  <p><img src="https://64.media.tumblr.com/d644ff0aa87fe85eae376d0ef492bf36/a34d657383d6ce06-f9/s75x75_c1/231aea25a03ad2c93fc6097c5c1b4da4da29c166.gifv"
-                        alt=""> Digital artist</p>
-</ul>
-<h2>My art test</h2>
-<img width="200px" src="https://raw.githubusercontent.com/VanrougeK/VanrougeK/main/80%20sin%20t%C3%ADtulo.png" alt="">
+###
+
+<img align="right" height="250" src="https://i.pinimg.com/736x/85/50/e6/8550e61cc3098376fba63e8978e159f3.jpg"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/vanrougeK/vanrougeK/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+</div>
+
+###
+<h2>My art</h2>
+<img width="200px" src="https://raw.githubusercontent.com/VanrougeK/VanrougeK/main/80%20sin%20t%C3%ADtulo.png" alt="QSMP-Quackity">
+<img width="200px" src="" alt="">
+<img width="200px" src="" alt="">
