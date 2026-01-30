@@ -37,5 +37,5 @@
 ###
 <h2>My art</h2>
 <img width="200px" src="https://raw.githubusercontent.com/VanrougeK/VanrougeK/main/80%20sin%20t%C3%ADtulo.png" alt="QSMP-Quackity">
-<img width="200px" src="" alt="">
-<img width="200px" src="" alt="">
+<img width="200px" src="https://raw.github.com/VanrougeK/VanrougeK/blob/main/168%20sin%20t%C3%ADtulo.png?raw=true" alt="">
+<img width="200px" src="https://raw.github.com/VanrougeK/VanrougeK/blob/main/51%20sin%20t%C3%ADtulo_20230416162923.png?raw=true" alt="">
